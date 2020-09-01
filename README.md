@@ -131,7 +131,7 @@ Solution: This functionality is implemented in the forms.js module. The item wit
 
 
 
-TABA:
+TABS:
 
 Task 1. Tabs in the "BALCONY GLAZING AND LOGGY" block should be implemented. The active tab and its style are also switched. (class active)
 The user can click on both the inscription and the picture
